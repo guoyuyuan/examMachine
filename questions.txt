@@ -1,0 +1,11 @@
+下列哪一个选项是Python中的数据类型?/n/tA.字典/n/tB.int/n/tC.BigInteger/n/tD.var#A
+下列哪一个选项是Java中的数据类型?/n/tA.字典/n/tB.int/n/tC.const/n/tD.var#B
+下列哪一个选项是属于C语言中的内容?/n/tA.字典/n/tB.指针/n/tC.Interage/n/tD.var#B
+下列哪一个选项是JavaScript中的关键词?/n/tA.字典/n/tB.int/n/tC.Interage/n/tD.var#D
+有一个字符串为“qwertyuiop“ab的变量，下列哪一个选项对于ab[:3]?/n/tA.qwe/n/tB.qwewrt/n/tC.iop/n/tD.uiop#A
+给出两个列表:a = [1,2,3],b = [4,5,6],请问a+b=?/n/tA.[1,2,3]/n/tB.[4,5,6]/n/tC.[1,2,3,4,5,6]/n/tD.[1,2,4,5]#C
+有个式子:a = 1<0,请问print函数输出a的结果为?/n/tA.True/n/tB.False/n/tC.0/n/tD.1#B
+下列哪一个式子为Python中的自增?/n/tA.x++/n/tB.x+=1/n/tC.x--/n/tD.x-=1#B
+下列哪一个式子为Python中的自减?/n/tA.x++/n/tB.x+=1/n/tC.x--/n/tD.x-=1#D
+下列哪一个是属于Python语言中的关键字?/n/tA.global/n/tB.implements/n/tC.final/n/tD.native#A
+下列哪一个选项不是Python中的数据类型?/n/tA.字典/n/tB.set/n/tC.列表/n/tD.var#D
